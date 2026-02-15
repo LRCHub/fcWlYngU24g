@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "いのちのパレヱド",
+  "base_artist": "くじら",
+  "createdAt": "2026-02-15T03:42:33.406739Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "いのちのパレヱド",
+      "artist": "whaledontsleep",
+      "has_synced": true,
+      "path": "select/01_いのちのパレヱド_whaledontsleep.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "いのちのパレヱド",
+      "artist": "くじら",
+      "has_synced": false,
+      "path": "select/pl_01_いのちのパレヱド_くじら.txt"
+    }
+  ]
+}
