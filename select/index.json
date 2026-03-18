@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "いのちのパレヱド",
   "base_artist": "くじら",
-  "createdAt": "2026-02-15T03:42:33.406739Z",
+  "createdAt": "2026-03-18T04:54:26.209285Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -13,12 +13,29 @@
       "path": "select/01_いのちのパレヱド_whaledontsleep.lrc"
     },
     {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "いのちのパレヱド - Matsuri of Lives",
+      "artist": "whaledontsleep",
+      "has_synced": true,
+      "path": "select/02_いのちのパレヱド_-_Matsuri_of_Lives_whaledontsleep.lrc"
+    },
+    {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
       "title": "いのちのパレヱド",
       "artist": "くじら",
       "has_synced": false,
       "path": "select/pl_01_いのちのパレヱド_くじら.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "いのちのパレヱド",
+      "artist": "くじら",
+      "has_synced": true,
+      "path": "select/localdb_01_いのちのパレヱド_くじら.lrc",
+      "repo_name": "fcWlYngU24g"
     }
   ]
 }
